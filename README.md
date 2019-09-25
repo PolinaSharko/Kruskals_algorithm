@@ -1,4 +1,4 @@
-# Shurky
+# Kruskal's algorithm
 This project is created for university course work. This is an implementation of Kruskal's algorithm 
 (minimum-spanning-tree algorithm which finds an edge of the least possible weight that connects any two trees in the forest).
 I wrote it in C++ and use graphviz for drawing trees.
